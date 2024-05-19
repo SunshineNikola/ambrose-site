@@ -5,7 +5,7 @@ subtitle:    "在瓜雪乘船出海看过海与鹰"
 description: " "
 date:        2024-05-19T20:04:36+08:00
 author:      "Ambrose"
-image:       "pic/laoying.png"
+image:       "/img/laoying.png"
 published: true 
 tags:        ["妈祖庙", "老鹰", "萤火虫"]
 URL: "/2024/05/04/"

@@ -1,11 +1,11 @@
 ---
 layout:      post
 title:       "马六甲和布城"
-subtitle:    "Welcome to history city lelaka"
+subtitle:    "Welcome to history city Melaka"
 description: " "
 date:        2024-05-19T20:14:40+08:00
 author:      "Ambrose"
-image:       "pic/bukitmelaka.png"
+image:       "/img/bukitmelaka.png"
 published: true 
 tags:        ["马六甲", "布城", "泡泡"]
 URL: "/2024/05/05/"

@@ -5,11 +5,11 @@ subtitle:    "高耸入云的双子塔和肉骨茶"
 description: " "
 date:        2024-05-19T17:50:37+08:00
 author:      "Ambrose"
-image:       "pic/cichangjie.png"
+image:       "/img/cichangjie.png"
 published: true 
 tags:        ["吉隆坡", "肉骨茶", "双子塔"]
 URL: "/2024/05/03/"
-categories:  [ Life ]
+categories:  [ 🏕️Life ]
 ---
 
 # 吉隆坡——时空联动的茨厂街和遍地清真寺

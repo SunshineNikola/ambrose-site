@@ -5,7 +5,7 @@ subtitle:    "西南联大的故事与昆明街头的蓝花楹"
 description: " "
 date:        2024-05-19T19:50:17+08:00
 author:      "Ambrose"
-image:       "pic/building.png"
+image:       "/img/building.png"
 published: true 
 tags:        ["西南联大", "昆明"]
 URL: "/2024/05/02/"

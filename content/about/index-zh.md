@@ -13,8 +13,8 @@ Hi，我是安步，一名汽车工程师，同时也是一名youtuber。平时�
 
 
 ## 播客分享
-|年份          |城市        |频道         | 分享主题    |视频       |
+|年份          |城市        |频道         | 分享主题    |音频        |
 | ----------- |----------- |----------- |----------- |----------- |
-|2024|线上|[广州](https://events.istio.io/istiocon-2022)|[Apple Vision Pro将在中国上市，“虚拟混合”是什么样的奇幻之旅？](https://xima.tv/1_BH0fGD?_sonic=0)|[收听](https://xima.tv/1_BH0fGD?_sonic=0)|
+|2024|广州|线上|[Apple Vision Pro将在中国上市，“虚拟混合”是什么样的奇幻之旅？](https://xima.tv/1_BH0fGD?_sonic=0)|[收听](https://xima.tv/1_BH0fGD?_sonic=0)|
 
 
