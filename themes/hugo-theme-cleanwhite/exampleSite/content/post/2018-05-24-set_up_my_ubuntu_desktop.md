@@ -16,7 +16,7 @@ categories: [ "Tips" ]
 ## Generate SSH Key Pair
 
 ```
-ssh-keygen -C "zhaoAmbrose@gmail.com"
+ssh-keygen -C "ambrose@gmail.com"
 ```
 
 ## Shadowsocks

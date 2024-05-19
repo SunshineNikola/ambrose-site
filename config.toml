@@ -46,7 +46,7 @@ home = ["HTML", "RSS", "Algolia"]
   ba_track_id = ""
   
   # We need a proxy to access Disqus api in China
-  # Follow https://github.com/zhaoAmbrose/disqus-php-api to set up your own disqus proxy
+  # Follow https://github.com/ambrose/disqus-php-api to set up your own disqus proxy
   disqus_proxy = ""
   disqus_site = ""
 

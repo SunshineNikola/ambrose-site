@@ -14,9 +14,9 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/home-bg-jeep.jpg"
-  SEOTitle = "赵化冰的博客 | ZhaoAmbrose Blog"
+  SEOTitle = "赵化冰的博客 | ambrose Blog"
   description = "赵化冰，程序员, 开源爱好者，生活探险家 | 这里是 赵化冰 的博客，与你一起发现更大的世界。"
-  keyword = "赵化冰, zhaoAmbrose, ZhaoAmbrose, , 赵化冰的网络日志, 赵化冰的博客, ZhaoAmbrose Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
+  keyword = "赵化冰, ambrose, ambrose, , 赵化冰的网络日志, 赵化冰的博客, ambrose Blog, 博客, 个人网站, 互联网, Web, 云原生, PaaS, Istio, Kubernetes, 微服务, Microservice"
   slogan = "路在脚下，心向远方"
   upstreamAttribution = true
 
@@ -37,8 +37,8 @@ home = ["HTML", "RSS", "Algolia"]
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
-  #sidebar_avatar = "img/avatar-zhaoAmbrose.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
-  sidebar_avatar = "img/zhaoAmbrose.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  #sidebar_avatar = "img/avatar-ambrose.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_avatar = "img/ambrose.png"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = true 
   featured_condition_size = 1 
@@ -47,7 +47,7 @@ home = ["HTML", "RSS", "Algolia"]
   ba_track_id = ""
   
   # We need a proxy to access Disqus api in China
-  # Follow https://github.com/zhaoAmbrose/disqus-php-api to set up your own disqus proxy
+  # Follow https://github.com/ambrose/disqus-php-api to set up your own disqus proxy
   disqus_proxy = ""
   disqus_site = ""
 

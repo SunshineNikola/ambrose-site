@@ -11,28 +11,28 @@ While I created this theme, I followed the Hugo theme best practice and tried to
 ## Screenshots
 
 **Home**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/screenshot.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/screenshot.png)
 
 **Post**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/post.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/post.png)
 
 **Search**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/sitesearch.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/sitesearch.png)
 
 **Archive**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/archive.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/archive.png)
 
 **Disqus**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/disqus.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/disqus.png)
 
 **Wechat Pay & Alipay**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/rewards.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/rewards.png)
 
 **Mind Map**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/mindmap.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/mindmap.png)
 
 **Bilibili Video**
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/bilibili.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/bilibili.png)
 
 ## Quick Start
 
@@ -100,11 +100,11 @@ disqusShortname = "your-disqus-short-name"
 ```
 
 #### Disqus behind a proxy
-If Disqus can't be directly accessed, we can set up a proxy with [disqus-php-api](https://github.com/zhaoAmbrose/disqus-php-api) in a host which sets between the client browser and the Disqus server. The idea is that if Disqus can be reached in the guest network, the blog page will show the original Disqus comments UI, otherwise, it will downgrade and use the proxy to access the Disqus, the UI will be a little different, but the visitors can still write their comments on the page.
+If Disqus can't be directly accessed, we can set up a proxy with [disqus-php-api](https://github.com/ambrose/disqus-php-api) in a host which sets between the client browser and the Disqus server. The idea is that if Disqus can be reached in the guest network, the blog page will show the original Disqus comments UI, otherwise, it will downgrade and use the proxy to access the Disqus, the UI will be a little different, but the visitors can still write their comments on the page.
 
 The client side java script has already been integrated to CleanWhite them, but you need to set up a proxy server yourself.
 
-The proxy is written in php, which can be found here: https://github.com/zhaoAmbrose/disqus-php-api/tree/master/api
+The proxy is written in php, which can be found here: https://github.com/ambrose/disqus-php-api/tree/master/api
 
 You need to specify  your Disqus account information in the config.php.
 ```
@@ -267,7 +267,7 @@ Alice <-- Bob: Another authentication Response
 ```
 </pre>
 
-![screenshot](https://raw.githubusercontent.com/zhaoAmbrose/hugo-theme-cleanwhite/master/images/plantuml.png)
+![screenshot](https://raw.githubusercontent.com/ambrose/hugo-theme-cleanwhite/master/images/plantuml.png)
 
 
 ## Thanks

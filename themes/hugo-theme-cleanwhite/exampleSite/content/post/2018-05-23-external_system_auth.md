@@ -30,7 +30,7 @@ categories: [ "Tech" ]
 
 使用API Token来访问Github API
 ```
-curl -u zhaoAmbrose:fbdf8e8862252ed0f3ba9dba4e328c01ac93aeec https://api.github.com/user
+curl -u ambrose:fbdf8e8862252ed0f3ba9dba4e328c01ac93aeec https://api.github.com/user
 
 ```
 > 不用试了,这不是我的真实API Token, just for demonstration :-)

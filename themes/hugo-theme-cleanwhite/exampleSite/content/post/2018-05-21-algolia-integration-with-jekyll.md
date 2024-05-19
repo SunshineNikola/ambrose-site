@@ -177,4 +177,4 @@ public class TxHandler {
 ## All the Example Codes on GitHub
 I wrap the codes into a maven project, just run ```mvn test``` then the example codes will build and run all the test cases.
 
-[Scrooge Coin example in Java](https://github.com/zhaoAmbrose/scroogecoin)
+[Scrooge Coin example in Java](https://github.com/ambrose/scroogecoin)

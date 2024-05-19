@@ -107,7 +107,7 @@ Helm init
 让我们在实践中来了解Helm。这里将使用一个Go测试小程序，让我们先为这个小程序创建一个Helm chart。
 
 ```
-git clone https://github.com/zhaoAmbrose/testapi.git; 
+git clone https://github.com/ambrose/testapi.git; 
 cd testapi
 ```
 

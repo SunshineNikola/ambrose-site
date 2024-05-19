@@ -18,7 +18,7 @@ Currently, Ambrose works as a senior engineer at [Tencent Cloud](https://cloud.t
 
 While he is free, he likes writing technical blog posts, watching movies, swimming, hiking, travelling and learning languages.
 
-Feel free to connect Ambrose at Github and Linkedin, leave your thoughts in his blog or share your ideas by [writing him an email](mailto:zhaoAmbrose@nikola.ltd). 
+Feel free to connect Ambrose at Github and Linkedin, leave your thoughts in his blog or share your ideas by [writing him an email](mailto:ambrose@nikola.ltd). 
 
 ## Publications
 | Title       |Type        |Publisher   |Link        |

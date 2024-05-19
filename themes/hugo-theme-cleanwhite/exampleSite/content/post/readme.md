@@ -61,7 +61,7 @@ If you start from scratch, there is a working Hugo site configured with the Clea
 For more information read the official [setup guide](https://gohugo.io/overview/installing/) of Hugo 
 
 ## Configuration
-First, let's take a look at the [config.toml](https://github.com/zhaoAmbrose/hugo-cleanwhite-theme/tree/master/exampleSite/config.toml). It will be useful to learn how to customize your site. Feel free to play around with the settings.
+First, let's take a look at the [config.toml](https://github.com/ambrose/hugo-cleanwhite-theme/tree/master/exampleSite/config.toml). It will be useful to learn how to customize your site. Feel free to play around with the settings.
 
 ### Comments
 The optional comments system is powered by [Disqus](https://disqus.com). If you want to enable comments, create an account in Disqus and write down your shortname.
@@ -72,11 +72,11 @@ disqusShortname = "your-disqus-short-name"
 You can disable the comments system by leaving the `disqusShortname` empty.
 
 ### Disqus in China
-Disqus is inaccessible in China. To get it to work, we can set up a proxy with [disqus-php-api](https://github.com/zhaoAmbrose/disqus-php-api) in a host which sets between the client browser and the Disqus server. The idea is that if Disqus can be reached in the guest network, the blog page will show the original Disqus comments UI, otherwise, it will downgrade and use the proxy to access the Disqus, the UI will be a little different, but the visitors can still write their comments on the page.
+Disqus is inaccessible in China. To get it to work, we can set up a proxy with [disqus-php-api](https://github.com/ambrose/disqus-php-api) in a host which sets between the client browser and the Disqus server. The idea is that if Disqus can be reached in the guest network, the blog page will show the original Disqus comments UI, otherwise, it will downgrade and use the proxy to access the Disqus, the UI will be a little different, but the visitors can still write their comments on the page.
 
 The client side java script has already been integrated to CleanWhite them, but you need to set up a proxy server yourself.
 
-The proxy is written in php, which can be found here: https://github.com/zhaoAmbrose/disqus-php-api/tree/master/api
+The proxy is written in php, which can be found here: https://github.com/ambrose/disqus-php-api/tree/master/api
 
 You need to specify  your Disqus account information in the config.php.
 ```

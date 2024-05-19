@@ -18,4 +18,4 @@ multilingual: true
 | Istio       | Contributor| https://istio.io    | https://github.com/istio/istio|
 | Envoy       | Contributor| https://www.envoyproxy.io |https://github.com/envoyproxy/envoy|
 | ONAP        | PTL        | https://www.onap.org||
-| hugo-theme-cleanwhite | Creator    | https://themes.gohugo.io/themes/hugo-theme-cleanwhite  | https://github.com/zhaoAmbrose/hugo-theme-cleanwhite |
+| hugo-theme-cleanwhite | Creator    | https://themes.gohugo.io/themes/hugo-theme-cleanwhite  | https://github.com/ambrose/hugo-theme-cleanwhite |

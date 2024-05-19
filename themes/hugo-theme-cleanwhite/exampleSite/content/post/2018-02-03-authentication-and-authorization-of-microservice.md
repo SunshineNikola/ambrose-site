@@ -133,7 +133,7 @@ Authorization: Bearer mF_9.B5f-4.1JqM
 
 使用API Token来访问Github API
 ```
-curl -u zhaoAmbrose:fbdf8e8862252ed0f3ba9dba4e328c01ac93aeec https://api.github.com/user
+curl -u ambrose:fbdf8e8862252ed0f3ba9dba4e328c01ac93aeec https://api.github.com/user
 
 ```
 使用API Token而不是直接使用用户名/密码来访问API的好处是降低了用户密码暴露的风险，并且可以随时收回Token的权限而不用修改密码。

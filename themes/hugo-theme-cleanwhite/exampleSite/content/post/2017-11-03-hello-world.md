@@ -1,6 +1,6 @@
 ---
 layout:     post 
-title:      "Welcome to ZhaoAmbrose Blog"
+title:      "Welcome to ambrose Blog"
 subtitle:   "Hello World, Hello Blog"
 date:       2017-11-04
 author:     "赵化冰"
