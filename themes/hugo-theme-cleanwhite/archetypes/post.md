@@ -1,15 +1,16 @@
 ---
 layout:      post
-title:       "Title"
-subtitle:    "subtitle"
+title:       "ChangeTheTitle"
+subtitle:    "SubTitle"
 description: " "
 date:        {{ .Date }}
 author:      "Ambrose"
-image:       ""
+image:       "/img/popo.jpg"
 published: true 
 tags:        ["tag1", "tag2"]
 URL: "{{ dateFormat "/2006/01/02/" .Date }}"
-categories:  [ Auto ]
+categories:  [ 🚘Auto ]
+# [ 🚘Auto ] [ 🛰️Tech ] [ 🏕️Life ] [ 🎥Video ]
 ---
 
 # Let's get started.
