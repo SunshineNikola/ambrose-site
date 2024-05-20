@@ -13,7 +13,7 @@ categories:  [ 🏕️Life ]
 # [ 🚘Auto ] [ 🛰️Tech ] [ 🏕️Life ] [ 🎥Video ]
 ---
 
-# Welcome to history city lelaka
+# Welcome to history city Melaka
 山坡上马六甲的地名牌有种好莱坞地名牌的感觉。
 ![maliujia](pic/bukitmelaka.png)
 郑和的船队竟然是当时全球最大的船队远超欧洲，在明朝就传播了这么多中华文化至海外。今年是中马建交50周年好像这几天也有中国军舰来吉隆坡停靠举办庆祝活动，原世界和平，中马友好。毕竟这里这么多华裔同胞讲着相同的语言传承者中华文化，应该每个国人来到马来西亚都会有一丝亲切感吧。
